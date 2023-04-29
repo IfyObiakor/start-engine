@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@400;500;600&family=Bai+Jamjuree:wght@200&family=Barlow+Condensed:wght@400;600&family=Roboto&family=Schibsted+Grotesk&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "Anuphan", sans-serif;
+  font-family: "Bai Jamjuree", sans-serif;
+  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Schibsted Grotesk", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
